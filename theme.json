@@ -1,0 +1,6 @@
+{
+  "id": "Berry",
+  "label": "Berry",
+  "rgb": "244, 114, 182",
+  "pattern": "radial-gradient(at 0% 0%, hsla(330, 70%, 18%, 1) 0, transparent 70%), radial-gradient(at 100% 0%, hsla(300, 80%, 22%, 1) 0, transparent 70%), radial-gradient(at 50% 100%, hsla(340, 60%, 25%, 1) 0, transparent 70%)"
+}
