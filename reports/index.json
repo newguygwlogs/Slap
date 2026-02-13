@@ -1,0 +1,25 @@
+[
+  {
+    "id": "20260213-200344-nlh7",
+    "title": "Markus Is One",
+    "commanders": [
+      "Markus Is One"
+    ],
+    "dateStart": "2026-02-13T09:03:44.000Z",
+    "dateEnd": "2026-02-13T11:36:35.000Z",
+    "dateLabel": "2/13/2026, 8:03:44 PM - 2/13/2026, 10:36:35 PM",
+    "url": "https://newguygwlogs.github.io/Slap/?report=20260213-200344-nlh7",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 15,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 36,
+      "avgEnemySize": 24
+    }
+  }
+]
