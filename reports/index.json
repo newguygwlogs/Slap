@@ -1,5 +1,29 @@
 [
   {
+    "id": "20260219-201450-gwth",
+    "title": "Markus Is One, Napalm Phantasm",
+    "commanders": [
+      "Markus Is One",
+      "Napalm Phantasm"
+    ],
+    "dateStart": "2026-02-19T09:14:50.000Z",
+    "dateEnd": "2026-02-19T11:08:49.000Z",
+    "dateLabel": "2/19/2026, 8:14:50 PM - 2/19/2026, 10:08:49 PM",
+    "url": "https://newguygwlogs.github.io/Slap/?report=20260219-201450-gwth",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 14,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 38,
+      "avgEnemySize": 21
+    }
+  },
+  {
     "id": "20260217-201834-gbzl",
     "title": "Markus Is One",
     "commanders": [
