@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260316-202804-op91",
+      "title": "Willow Stormhunter",
+      "commanders": [
+        "Willow Stormhunter"
+      ],
+      "dateStart": "2026-03-16T09:28:04.000Z",
+      "dateEnd": "2026-03-16T11:04:04.000Z",
+      "dateLabel": "3/16/2026, 8:28:04 PM - 3/16/2026, 10:04:04 PM",
+      "url": "https://newguygwlogs.github.io/Slap/?report=20260316-202804-op91",
+      "summary": {
+        "borderlandsPct": 0.06666666666666667,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260312-202259-jkz0",
       "title": "Napalm Phantasm",
       "commanders": [
