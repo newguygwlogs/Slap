@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260323-202204-n5we",
+      "title": "Willow Stormhunter",
+      "commanders": [
+        "Willow Stormhunter"
+      ],
+      "dateStart": "2026-03-23T09:22:04.000Z",
+      "dateEnd": "2026-03-23T11:16:55.000Z",
+      "dateLabel": "3/23/2026, 8:22:04 PM - 3/23/2026, 10:16:55 PM",
+      "url": "https://newguygwlogs.github.io/Slap/?report=20260323-202204-n5we",
+      "summary": {
+        "borderlandsPct": 0.18181818181818182,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260316-202804-op91",
       "title": "Willow Stormhunter",
       "commanders": [
