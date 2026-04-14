@@ -3,6 +3,39 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260414-200350-1zgm",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "dateStart": "2026-04-14T10:03:50.000Z",
+      "dateEnd": "2026-04-14T12:15:32.000Z",
+      "dateLabel": "4/14/2026, 8:03:50 PM - 4/14/2026, 10:15:32 PM",
+      "url": "https://newguygwlogs.github.io/Slap/?report=20260414-200350-1zgm",
+      "summary": {
+        "borderlandsPct": 0.2,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260407-195255-jpdj",
       "title": "Markus Is One",
       "commanders": [
