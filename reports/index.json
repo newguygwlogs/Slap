@@ -3,6 +3,34 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260423-200758-qc2q",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "dateStart": "2026-04-23T10:07:58.000Z",
+      "dateEnd": "2026-04-23T11:42:46.000Z",
+      "dateLabel": "4/23/2026, 8:07:58 PM - 4/23/2026, 9:42:46 PM",
+      "url": "https://newguygwlogs.github.io/Slap/?report=20260423-200758-qc2q",
+      "summary": {
+        "borderlandsPct": 0.13333333333333333,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260421-203516-0kak",
       "title": "Willow Stormhunter",
       "commanders": [
