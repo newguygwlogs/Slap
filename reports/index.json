@@ -1,7 +1,31 @@
 {
   "colorPalette": "amber-warm",
   "glassSurfaces": true,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260519-200034-1n90",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "dateStart": "2026-05-19T10:00:34.000Z",
+      "dateEnd": "2026-05-19T11:25:27.000Z",
+      "dateLabel": "5/19/2026, 8:00:34 PM - 5/19/2026, 9:25:27 PM",
+      "url": "https://newguygwlogs.github.io/Slap/?report=20260519-200034-1n90",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 42
+      }
+    },
     {
       "id": "20260423-200758-qc2q",
       "title": "Markus Is One",
