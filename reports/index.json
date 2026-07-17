@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260717-200400-7p0e",
+      "title": "Markus Headcrusher",
+      "commanders": [
+        "Markus Headcrusher"
+      ],
+      "dateStart": "2026-07-17T10:04:00.000Z",
+      "dateEnd": "2026-07-17T11:06:54.000Z",
+      "dateLabel": "7/17/2026, 8:04:00 PM - 7/17/2026, 9:06:54 PM",
+      "url": "https://newguygwlogs.github.io/Slap/?report=20260717-200400-7p0e",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260519-200034-1n90",
       "title": "Markus Is One",
       "commanders": [
