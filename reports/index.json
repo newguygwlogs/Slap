@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260810-211642-kyjm",
+      "title": "Miss Léading",
+      "commanders": [
+        "Miss Léading"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-08-10T11:16:42.000Z",
+      "dateEnd": "2026-08-10T12:12:03.000Z",
+      "dateLabel": "8/10/2026, 9:16:42 PM - 8/10/2026, 10:12:03 PM",
+      "url": "https://newguygwlogs.github.io/Slap/?report=20260810-211642-kyjm",
+      "summary": {
+        "borderlandsPct": 0.25,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260717-200400-7p0e",
       "title": "Markus Headcrusher",
       "commanders": [
