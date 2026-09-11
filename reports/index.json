@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260911-194130-wkm8",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-09-11T09:41:30.000Z",
+      "dateEnd": "2026-09-11T11:30:45.890Z",
+      "dateLabel": "9/11/2026, 7:41:30 PM - 9/11/2026, 9:30:45 PM",
+      "url": "https://newguygwlogs.github.io/Slap/?report=20260911-194130-wkm8",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260810-211642-kyjm",
       "title": "Miss Léading",
       "commanders": [
