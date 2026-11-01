@@ -1,8 +1,42 @@
 {
   "colorPalette": "amber-warm",
-  "glassSurfaces": true,
-  "glassmorphic": false,
+  "axiTheme": "flat",
+  "glass": false,
+  "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.10"
+  },
   "entries": [
+    {
+      "id": "20261101-194957-9yhq",
+      "title": "Napalm Phantasm",
+      "commanders": [
+        "Napalm Phantasm"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-11-01T08:49:57.000Z",
+      "dateEnd": "2026-11-01T09:43:16.676Z",
+      "dateLabel": "11/1/2026, 7:49:57 PM - 11/1/2026, 8:43:16 PM",
+      "url": "https://newguygwlogs.github.io/Slap/?report=20261101-194957-9yhq",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 33
+      }
+    },
     {
       "id": "20260917-204151-kqen",
       "title": "Napalm Phantasm",
