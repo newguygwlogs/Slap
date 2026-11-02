@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261102-202137-ilbt",
+      "title": "Miss Léading",
+      "commanders": [
+        "Miss Léading"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-11-02T09:21:37.000Z",
+      "dateEnd": "2026-11-02T10:21:17.857Z",
+      "dateLabel": "11/2/2026, 8:21:37 PM - 11/2/2026, 9:21:17 PM",
+      "url": "https://newguygwlogs.github.io/Slap/?report=20261102-202137-ilbt",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20261101-194957-9yhq",
       "title": "Napalm Phantasm",
       "commanders": [
