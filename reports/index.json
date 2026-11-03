@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261103-202849-1xf7",
+      "title": "Miss Léading",
+      "commanders": [
+        "Miss Léading"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-11-03T09:28:49.000Z",
+      "dateEnd": "2026-11-03T10:50:16.962Z",
+      "dateLabel": "11/3/2026, 8:28:49 PM - 11/3/2026, 9:50:16 PM",
+      "url": "https://newguygwlogs.github.io/Slap/?report=20261103-202849-1xf7",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20261102-202137-ilbt",
       "title": "Miss Léading",
       "commanders": [
