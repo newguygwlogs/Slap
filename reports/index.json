@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.10"
+    "version": "3.24.0"
   },
   "entries": [
+    {
+      "id": "20261111-194653-9u15",
+      "title": "The Deadly Koala",
+      "commanders": [
+        "The Deadly Koala"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-11-11T08:46:53.000Z",
+      "dateEnd": "2026-11-11T09:56:42.384Z",
+      "dateLabel": "11/11/2026, 7:46:53 PM - 11/11/2026, 8:56:42 PM",
+      "url": "https://newguygwlogs.github.io/Slap/?report=20261111-194653-9u15",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 29
+      }
+    },
     {
       "id": "20261103-202849-1xf7",
       "title": "Miss Léading",
