@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261112-203403-h1ws",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-11-12T09:34:03.000Z",
+      "dateEnd": "2026-11-12T10:54:17.984Z",
+      "dateLabel": "11/12/2026, 8:34:03 PM - 11/12/2026, 9:54:17 PM",
+      "url": "https://newguygwlogs.github.io/Slap/?report=20261112-203403-h1ws",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20261111-194653-9u15",
       "title": "The Deadly Koala",
       "commanders": [
