@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.24.0"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261115-195802-69g7",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-11-15T08:58:02.000Z",
+      "dateEnd": "2026-11-15T10:05:06.926Z",
+      "dateLabel": "11/15/2026, 7:58:02 PM - 11/15/2026, 9:05:06 PM",
+      "url": "https://newguygwlogs.github.io/Slap/?report=20261115-195802-69g7",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 4,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 30
+      }
+    },
     {
       "id": "20261114-203624-dyuk",
       "title": "Miss Léading",
