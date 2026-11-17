@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261117-192451-u1vx",
+      "title": "Newguys Hot Spirit",
+      "commanders": [
+        "Newguys Hot Spirit"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-11-17T08:24:51.000Z",
+      "dateEnd": "2026-11-17T09:57:01.120Z",
+      "dateLabel": "11/17/2026, 7:24:51 PM - 11/17/2026, 8:57:01 PM",
+      "url": "https://newguygwlogs.github.io/Slap/?report=20261117-192451-u1vx",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 8
+      }
+    },
+    {
       "id": "20261115-195802-69g7",
       "title": "Markus Is One",
       "commanders": [
