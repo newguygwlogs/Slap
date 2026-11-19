@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261119-201555-roam",
+      "title": "Big Apol Pai",
+      "commanders": [
+        "Big Apol Pai"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-11-19T09:15:55.000Z",
+      "dateEnd": "2026-11-19T10:30:32.552Z",
+      "dateLabel": "11/19/2026, 8:15:55 PM - 11/19/2026, 9:30:32 PM",
+      "url": "https://newguygwlogs.github.io/Slap/?report=20261119-201555-roam",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20261117-192451-u1vx",
       "title": "Newguys Hot Spirit",
       "commanders": [
