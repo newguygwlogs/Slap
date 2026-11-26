@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261126-195909-ux4d",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-11-26T08:59:09.000Z",
+      "dateEnd": "2026-11-26T10:08:40.545Z",
+      "dateLabel": "11/26/2026, 7:59:09 PM - 11/26/2026, 9:08:40 PM",
+      "url": "https://newguygwlogs.github.io/Slap/?report=20261126-195909-ux4d",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20261119-201555-roam",
       "title": "Big Apol Pai",
       "commanders": [
