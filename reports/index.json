@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261128-193950-aaks",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-11-28T08:39:50.000Z",
+      "dateEnd": "2026-11-28T09:55:16.721Z",
+      "dateLabel": "11/28/2026, 7:39:50 PM - 11/28/2026, 8:55:16 PM",
+      "url": "https://newguygwlogs.github.io/Slap/?report=20261128-193950-aaks",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20261127-193647-gvgc",
       "title": "Markus Is One",
       "commanders": [
